@@ -11,7 +11,7 @@ echo "# Learn Github" > README.md
 git add .
 git commit -m "initail commit"
 git branch -M main
-git remote add origin https://github.com/engchamitha/bracket.git
+git remote add origin https://github.com/engchamitha/Learn-Github.git
 git push -u origin main
 git status
 ```
